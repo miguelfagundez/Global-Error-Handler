@@ -1,6 +1,6 @@
-import 'package:aayats_evaluation/view/widgets/toast/const.dart';
-import 'package:aayats_evaluation/view/widgets/toast/params.dart';
 import 'package:flutter/material.dart';
+import 'package:global_error_handler/view/widgets/toast/const.dart';
+import 'package:global_error_handler/view/widgets/toast/params.dart';
 
 class ToastWidget extends StatefulWidget {
   const ToastWidget({
